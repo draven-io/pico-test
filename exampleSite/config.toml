@@ -77,28 +77,22 @@ url = "https://facebook.com/"
 [menu]
 
 [[menu.main]]
-identifier = "home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/" 
+# identifier = "home" # identifier is use for translations
+pre = "Facebook" # pre is inserted before the translation (icons, image, etc)
+url = "https://www.facebook.com" 
 weight = 10 
 
 [[menu.main]]
-identifier = "blog" # identifier is use for translations
+# identifier = "blog" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/blog/" 
+url = "https://www.instagram.com" 
 weight = 20 
 
 [[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
-
-[[menu.main]]
 # identifier = "contact" # identifier is use for translations
-pre = "TEST!" # pre is inserted before the translation (icons, image, etc)
-url = "https://www.google.com" 
-weight = 40
+pre = "App" # pre is inserted before the translation (icons, image, etc)
+url = "https://play.google.com" 
+weight = 30
 
 # Syntax highlightning
 [markup.highlight]
