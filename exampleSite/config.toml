@@ -78,21 +78,9 @@ url = "https://facebook.com/"
 
 [[menu.main]]
 # identifier = "contact" # identifier is use for translations
-pre = "App1" # pre is inserted before the translation (icons, image, etc)
+pre = "Prenota" # pre is inserted before the translation (icons, image, etc)
 url = "https://play.google.com" 
 weight = 10
-
-[[menu.main]]
-# identifier = "contact" # identifier is use for translations
-pre = "App2" # pre is inserted before the translation (icons, image, etc)
-url = "https://play.google.com" 
-weight = 20
-
-[[menu.main]]
-# identifier = "contact" # identifier is use for translations
-pre = "App3" # pre is inserted before the translation (icons, image, etc)
-url = "https://play.google.com" 
-weight = 30
 
 # Syntax highlightning
 [markup.highlight]
