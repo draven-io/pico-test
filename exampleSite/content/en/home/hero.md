@@ -27,7 +27,7 @@ hero_media = "/img/portrait.jpg"
 
 # La patria della _Noble Art_.
 
-Il luogo dove si incontrano le mie due grandi passioni: la **Boxe** e la **Barberia**.  
+Il luogo in cui la **Boxe** e la **Barberia** si incontrano.  
 Nobile è il fascino della boxe: ostentazione delle forza fisica, intelligenza tattica unita ad eleganza ed efficacia dei movimenti. 
 Nobile è il cuore degli atleti, e la loro capacità di sopportazione. Nobile è l'antica professione del barbiere.
 Il luogo ideale per offrire all'uomo tutti i servizi dedicati alla cura della propria immagine. Un'atmosfera familiare dove il tempo si ferma. 
