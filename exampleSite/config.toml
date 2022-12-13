@@ -84,7 +84,7 @@ weight = 10
 
 [[menu.main]]
 # identifier = "blog" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
+pre = "Instagram" # pre is inserted before the translation (icons, image, etc)
 url = "https://www.instagram.com" 
 weight = 20 
 
