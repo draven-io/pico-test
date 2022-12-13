@@ -94,6 +94,12 @@ pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/#contact" 
 weight = 30 
 
+[[menu.main]]
+# identifier = "contact" # identifier is use for translations
+pre = "TEST!" # pre is inserted before the translation (icons, image, etc)
+url = "https://www.google.com" 
+weight = 40
+
 # Syntax highlightning
 [markup.highlight]
 guessSyntax = true 
