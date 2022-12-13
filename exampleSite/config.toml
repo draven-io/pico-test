@@ -77,20 +77,20 @@ url = "https://facebook.com/"
 [menu]
 
 [[menu.main]]
-# identifier = "home" # identifier is use for translations
-pre = "Facebook" # pre is inserted before the translation (icons, image, etc)
-url = "https://www.facebook.com" 
-weight = 10 
-
-[[menu.main]]
-# identifier = "blog" # identifier is use for translations
-pre = "Instagram" # pre is inserted before the translation (icons, image, etc)
-url = "https://www.instagram.com" 
-weight = 20 
+# identifier = "contact" # identifier is use for translations
+pre = "App1" # pre is inserted before the translation (icons, image, etc)
+url = "https://play.google.com" 
+weight = 10
 
 [[menu.main]]
 # identifier = "contact" # identifier is use for translations
-pre = "App" # pre is inserted before the translation (icons, image, etc)
+pre = "App2" # pre is inserted before the translation (icons, image, etc)
+url = "https://play.google.com" 
+weight = 20
+
+[[menu.main]]
+# identifier = "contact" # identifier is use for translations
+pre = "App3" # pre is inserted before the translation (icons, image, etc)
 url = "https://play.google.com" 
 weight = 30
 
