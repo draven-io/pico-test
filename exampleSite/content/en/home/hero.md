@@ -27,6 +27,8 @@ hero_media = "/img/portrait.jpg"
 
 # Il tempio della _Noble Art_.
 
+![image](https://storage.builderall.com//franquias/2/364194/editor-html/6895952.png)
+
 Il luogo in cui la **Boxe** e la **Barberia** si incontrano.  
 Nobile è il fascino della boxe: ostentazione delle forza fisica, intelligenza tattica unita ad eleganza ed efficacia dei movimenti. 
 Nobile è il cuore degli atleti, e la loro capacità di sopportazione. Nobile è l'antica professione del barbiere.
