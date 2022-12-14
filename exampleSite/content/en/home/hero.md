@@ -31,4 +31,4 @@ Il luogo in cui la **Boxe** e la **Barberia** si incontrano.
 Nobile è il fascino della boxe: ostentazione delle forza fisica, intelligenza tattica unita ad eleganza ed efficacia dei movimenti. 
 Nobile è il cuore degli atleti, e la loro capacità di sopportazione. Nobile è l'antica professione del barbiere.
 Il luogo ideale per offrire all'uomo tutti i servizi dedicati alla cura della propria immagine. Un'atmosfera familiare dove il tempo si ferma. 
-Dove il cliente può concedersi un momento di relax e benessere per la cura di sé con un servizio curato e continuamente legato alle tendenze.
+Dove il cliente può concedersi un momento di relax e benessere per la cura di sé con un servizio curato e continuamente legato alle tendenze. :scissors:
