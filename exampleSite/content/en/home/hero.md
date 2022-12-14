@@ -24,8 +24,8 @@ hero_media = "/img/portrait.jpg"
   label = 'Contattaci'
 
 +++
-+++
-# La patria della _Noble Art_.
+
+# Il tempio della _Noble Art_.
 
 Il luogo in cui la **Boxe** e la **Barberia** si incontrano.  
 Nobile è il fascino della boxe: ostentazione delle forza fisica, intelligenza tattica unita ad eleganza ed efficacia dei movimenti. 
