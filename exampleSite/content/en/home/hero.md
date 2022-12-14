@@ -19,9 +19,9 @@ hero_media = "/img/portrait.jpg"
 	# Primary color
 	primary = true
 
-[[btn]]
-  url = "#contact"
-  label = 'Contattaci'
+#[[btn]]
+#  url = "#contact"
+#  label = 'Contattaci'
 
 +++
 
