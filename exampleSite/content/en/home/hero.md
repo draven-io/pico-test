@@ -19,12 +19,12 @@ hero_media = "/img/portrait.jpg"
 	# Primary color
 	primary = true
 
-#[[btn]]
-#  url = "#contact"
-#  label = 'Contattaci'
+[[btn]]
+  url = "#contact"
+  label = 'Contattaci'
 
 +++
-
++++
 # La patria della _Noble Art_.
 
 Il luogo in cui la **Boxe** e la **Barberia** si incontrano.  
